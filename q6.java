@@ -1,13 +1,12 @@
-
 public class q6 {
 
 	public static void main(String[] args) {
 		
-
+Scanner sc=new Scanner (System.in);
 int i, s=0,sum=0;
 int sq=0;
 int diff;
-for(i=1;i<=10;i++)
+for(i=1;i<=100;i++)
 {
 s=s+(i*i);
 sum=sum+i;
