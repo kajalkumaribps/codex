@@ -1,9 +1,7 @@
-import java.util.Scanner;
 public class q9 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-Scanner sc=new Scanner (System.in);
 int a,b,c,flag=1;
 int pro=0;
 a=1;  b=2;  c=3;
