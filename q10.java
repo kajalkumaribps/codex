@@ -1,9 +1,8 @@
-import java.util.Scanner;
 public class q10 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-Scanner sc=new Scanner (System.in);
+
 long sum=2;
 
 for(long i=3;i<=2000000;i=i+2)
