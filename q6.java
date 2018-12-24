@@ -1,9 +1,9 @@
-import java.util.Scanner;
+
 public class q6 {
 
 	public static void main(String[] args) {
 		
-Scanner sc=new Scanner (System.in);
+
 int i, s=0,sum=0;
 int sq=0;
 int diff;
