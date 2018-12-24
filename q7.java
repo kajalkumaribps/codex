@@ -10,10 +10,8 @@ public class q7 {
 			 for(long k=1;k<=Math.sqrt(i);k++)
 			 {
 				 if(i%k==0)
-				 {
-					 ctr++;
-				 }
-			 }
+				  ctr++;
+		          }
 			 if(ctr==1)
 			   c1++;
 			  if(c1==10001)
@@ -25,9 +23,6 @@ public class q7 {
 			 ctr=0;
 		 }
 		 System.out.println("10001st prime is:"+prime);
+           }
 
-
-
-	}
-
-}
+      }
