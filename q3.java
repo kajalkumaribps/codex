@@ -1,11 +1,10 @@
-import java.util.Scanner;
+
 public class q3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-Scanner sc=new Scanner (System.in);
-System.out.println("enter the number");
- long n=sc.nextLong();
+
+long  n= 600851475143L;
  long m=n;
  long mxpr=0;
  if(n%2==0)
